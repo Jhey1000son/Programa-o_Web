@@ -1,0 +1,10 @@
+<!-- Menu -->
+	<!-- # procura na Página -->
+	<a href="#textos">Textos</a>
+	<a href="#imagens">Imagens</a>
+	<a href="#listas">Listas</a>
+	<a href="#tabelas">Tabelas</a>
+	<!-- Procura uma nova página -->
+	<a href="pagina2.html">Página 2</a>	
+	<!-- http:// procura na Internet _blanl abre uma nova guia sem sair do site-->
+	<a href="http://www.google.com" target="_blank">Google</a>
