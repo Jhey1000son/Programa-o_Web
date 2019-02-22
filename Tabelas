@@ -1,0 +1,73 @@
+<!-- Tabelas -->
+<table width="300" border="1">
+	<!-- Criar Linhas <tr> / Criar Colunas -->
+	<tr>
+		<th>Nome</th>
+		<th>Idade</th>
+	</tr>
+
+	<tr>
+		<th>Ana</th>
+		<th>22</th>
+	</tr>
+	<tr>
+		<th>Bruno</th>
+		<th>27</th>
+	</tr>
+
+</table>
+
+<br><br> <!-- Quebra de Linha -->
+
+<table width="300" border="1">
+	<!-- Criar Linhas <tr> / Criar Colunas -->
+	<tr>
+		<th rowspan="2">Nome</th>
+		<th>Idade</th>
+		<th>Idade</th>
+	</tr>
+
+	<tr>
+		<!--<th>Ana</th>-->
+		<th>22</th>
+		<th>Ituiutaba</th>
+	</tr>
+
+	<tr>
+		<th>Bruno</th>
+		<!-- mesclagem Horizontal Colspan-->
+		<th colspan="2">27</th>
+		<!-- <th>Uberaba</th> -->
+	</tr>
+
+</table>
+
+<br><br>
+
+<!--Exercicio Table -->
+<table width="300" border="1">
+	<tr>
+		<th>Nome</th>
+		<th>Idade</th>
+		<th>Sexo</th>
+	</tr>
+
+	<tr>
+		<th>jheymison</th>
+		<th>24</th>
+		<th>Masculino</th>
+	</tr>
+
+	<tr>
+		<th>Rafael</th>
+		<th>25</th>
+		<th>Feminino</th>
+	</tr>
+
+	<tr>
+		<th>Rodrigo</th>
+		<th>27</th>
+		<th>Trans</th>
+	</tr>
+
+</table>
