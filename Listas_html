@@ -1,0 +1,50 @@
+<!-- Listas -->
+<h3> Listas Não Ordenadas </h3>
+
+<ul>
+	<li>Abacaxi</li>
+	<li>Banana</li>
+	<li>Caju</li>
+	<li>Damasco</li>
+	<li>Laranja</li>
+</ul>
+
+<h3>Listas Ordenadas</h3>
+
+<ol type="A" reversed="true">
+	<li>1º Semestre</li>
+	<li>2º semestre</li>
+	<li>3º Semestre</li>
+	<li>4º Semestre</li>
+</ol>
+
+<h3>Listas Combinadas/Compostas</h3>
+
+<ol>
+	<li>
+		MG
+		<ul>
+			<li>Ituiutaba</li>
+			<li>Uberaba</li>
+			<li>Araguari</li>
+		</ul>
+	</li>
+
+	<li>
+		RJ
+		<ul>
+			<li>Rio de Janeiro</li>
+			<li>Janeiro</li>
+			<li>Rio</li>
+		</ul>
+	</li>
+
+	<li>
+		SP
+		<ul>
+			<li>São Paulo</li>
+			<li>São</li>
+			<li>Paulo</li>
+		</ul>
+	</li>
+</ol>
