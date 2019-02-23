@@ -1,0 +1,152 @@
+<!-- 2ª Temporada -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>2ª Temporada - My Hero Akademia</title>
+	<meta charset="utf-8">
+	<img src="imgtemporada2.jpg" width="100%" alt="Imagem da 2 ª Temporada de My Hero Akademia">
+</head>
+<body>
+
+	<a href="index.html">Voltar á Página Anterior</a>
+
+	<h1 align="center">2ª temporada</h1>
+		<div align="center">
+			<table width="700" border="1">
+				<!-- Criar Linhas <tr> / Criar Colunas -->
+				<tr>
+					<th>Episódio</th>
+					<th>Ep</th>
+					<th>Assistir</th>
+				</tr>
+				<tr>
+					<th>Essa é a ideia, ochako-san</th>
+					<th>1</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OGNmNTQ0YzNjYzk1OTk4YmFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>O Festival esportivo Ruge</th>
+					<th>2</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=NDJhM2IzMzE5NzczZDA4N2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>De Suas Próprias e Peculiares Maneiras!</th>
+					<th>3</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ODM1NzRiOTcyZDExNGJiY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Estratégia, estratégia, estratégia</th>
+					<th>4</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OGQ2M2U5MWIyZGU2MzkxZWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>O Final da Batalha de Cavalaria!</th>
+					<th>5</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZDJhNWM1ZmEwYWFlNzQ5ZGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>O Garoto que Nasceu com Tudo</th>
+					<th>6</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=YzI2ZGE1ODY4Y2I2MTZhOGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Vitória ou Derrota</th>
+					<th>7</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=NTc2ZjFmOWJhOTAyMjRkYWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Lutem, desafiantes!</th>
+					<th>8</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZjNlZTFhYTRlNDUyNWFmMmFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Bakugou vs Uraraka</th>
+					<th>9</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=MWI1NDM0MjQ4MDI4Y2JlZWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Todoroki Shouto: Origem</th>
+					<th>10</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZWU2ODU5Nzc0M2VhYmNmMWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Lute, Iida-Kun!</th>
+					<th>11</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ODk1OWYzNzg1YTk4ZDE2MGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Todoroki vs. Bakugou</th>
+					<th>12</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTY2ZDRhNTdhN2VhZmM1YWk1MXM=" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Hora de Escolher Alguns Nomes!!</th>
+					<th>13</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Bizarro! Gran Torino Aparece!</th>
+					<th>14</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Midoriya e Shigaraki</th>
+					<th>15</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>O Assassino de Heróis: Stain vs Estudantes da U.A.</th>
+					<th>16</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Conclusão</th>
+					<th>17</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Assassino de Heróis, Stain: Consequências</th>
+					<th>18</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Os Estágios da Turma</th>
+					<th>19</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Ouça! Um Conto do Passado</th>
+					<th>20</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Preparem-se para o exame final!</th>
+					<th>21</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Yaoyorozu: Ascensão</th>
+					<th>22</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th> Removendo o Verniz</th>
+					<th>23</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Bakugou Katsuki: Origem (Prévia)</th>
+					<th>24</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Encontro (Season Finale)</th>
+					<th>25</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+
+			</table>
+		</div>
+
+</body>
+</html>
