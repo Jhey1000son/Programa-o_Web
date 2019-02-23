@@ -1,0 +1,92 @@
+<!-- 1ª Temporada -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>1ª Temporada - My Hero Akademia</title>
+	<meta charset="utf-8">
+	<img src="imgtemporada1.jpg" width="100%" alt="Imagem da 1 ª Temporada de My Hero Akademia">
+</head>
+<body>
+
+	<a href="index.html">Voltar á Página Anterior</a>
+
+	<h1 align="center">1ª temporada</h1>
+		<div align="center">
+			<table width="700" border="1">
+				<!-- Criar Linhas <tr> / Criar Colunas -->
+				<tr>
+					<th>Episódio</th>
+					<th>Ep</th>
+					<th>Assistir</th>
+				</tr>
+				<tr>
+					<th>Midoriya Izuku: Origem</th>
+					<th>1</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OGNmNTQ0YzNjYzk1OTk4YmFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>O Necessário Para Ser Um Herói</th>
+					<th>2</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=NDJhM2IzMzE5NzczZDA4N2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Músculos Gritantes</th>
+					<th>3</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ODM1NzRiOTcyZDExNGJiY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Local do teste de heroi de admissão do Colégio U.A</th>
+					<th>4</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OGQ2M2U5MWIyZGU2MzkxZWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>O Que Posso Fazer Por Enquanto</th>
+					<th>5</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZDJhNWM1ZmEwYWFlNzQ5ZGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Se Enfureça, Nerd Maldito</th>
+					<th>6</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=YzI2ZGE1ODY4Y2I2MTZhOGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Deku Vs Kacchan</th>
+					<th>7</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=NTc2ZjFmOWJhOTAyMjRkYWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>A largada do Bakugo!</th>
+					<th>8</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZjNlZTFhYTRlNDUyNWFmMmFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Isso, Apenas Dê o Seu Melhor, lida!</th>
+					<th>9</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=MWI1NDM0MjQ4MDI4Y2JlZWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Encontro com o Desconhecido!</th>
+					<th>10</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZWU2ODU5Nzc0M2VhYmNmMWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Game Over</th>
+					<th>11</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ODk1OWYzNzg1YTk4ZDE2MGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>All Might</th>
+					<th>12</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTY2ZDRhNTdhN2VhZmM1YWk1MXM=" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Em cada um dos nossos corações!</th>
+					<th>13</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+
+			</table>
+		</div>
+
+</body>
+</html>
