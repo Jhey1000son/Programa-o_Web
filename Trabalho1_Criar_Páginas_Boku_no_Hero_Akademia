@@ -1,0 +1,115 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My hero Akademia</title>
+	<meta charset="utf-8">
+	
+</head>
+<body>
+	<img src="imgcabecalho.jpg" width="100%">
+
+	<br><br>
+	<!-- Menu -->
+	<a href="#sobre">Sobre</a>
+	<a href="#personagens">Principais Personagens</a>
+	<a href="#trailler">Trailler</a>
+	<a href="#assista">Assista Agora</a>
+	<a href="#noticias">Noticias</a>
+	<a href="https://pt.wikipedia.org/wiki/Boku_no_Hero_Academia#Anime" target="_blank">Fontes</a>
+
+	<!-- 1 - Seção - Descrição do Site -->
+	<a name="sobre"></a>
+	<h1>Sobre:</h1>
+		<p><b>Boku no Hero Academia</b>, também conhecido como My Hero Academia, é uma série de mangá escrita e ilustrada por Kōhei Horikoshi. Os capítulos do mangá são publicados na revista Weekly Shōnen Jump desde julho de 2014,[4] e foram compilados em 21 volumes(atualizado em 25/12/18) em formato tankōbon pela editora Shueisha. A série é licenciada e publicada no Brasil pela editora JBC. A história segue Izuku Midoriya, um menino que nasceu sem superpoderes em mundo que é normal tê-los, mas mesmo assim sonha em se tornar um super-herói. Após ajudar o maior herói do mundo a capturar um vilão, este compartilha os seus poderes com Izuku depois de reconhecer o seu valor e o ajuda a se matricular em uma escola para heróis em formação. <u>O mangá foi adaptado em uma série de anime produzida pelo estúdio Bones; a primeira temporada foi ao ar em 3 de abril até 26 de junho de 2016</u>,[5] a segunda temporada do anime estreou em abril de 2017[6] e a terceira temporada estreou em 7 de abril de 2018[7]. A quarta temporada está prevista para estrear em 2019.</p>
+
+		<br><br><br><br>
+	<!-- 2ª Seção - Personagens -->
+	<a name="personagens"></a>
+	<h1 align="center">Principais Personagens</h1>
+		<br>
+	<h2>Deku (Midoriya Izuku)</h2>
+		<img src="imgDeku.jpg" width="100" height="100" alt="Imagem com o Deku em Pose de Luta" title="Imagem deku">
+		<br>
+	<h2>All Might</h2>
+		<img src="omgAllmigth.jpg" width="100" height="100" alt="Imagem com o All Might Correndo" title="Imagem deku">
+		<br>
+	<h2>Ka-chan (Katsuki Bokugaou)</h2>
+		<img src="imgbakugou.jpg" width="100" height="100" alt="Imagem com o Bakugou Doidao" title="Imagem deku">
+		<br>
+	<h2>Tenya Iida</h2>
+		<img src="imgtenya.jpg" width="100" height="100" alt="Imagem com o tenya feliz" title="Imagem deku">
+		<br>
+	<h2>Uraraka Ochako</h2>
+		<img src="imguraraka.jpg" width="100" height="100" alt="Imagem com a Uraraka feliz" title="Imagem deku">
+
+		<br><br><br>
+
+	<!-- 3ª Seção - Trailler do Naime -->
+	<a name="trailler"></a>
+	<h1 align="center">Trailler do Anime</h1>
+		<iframe width="893" height="502" src="https://www.youtube.com/embed/wIb3nnOeves" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<!-- 4ª Seção - Assistir -->
+		<br><br><br><br>
+	<!-- Lista Ordenada -->
+	<a name="assista"></a>
+	<h1>Assista Agora!</h1>
+		<ol type="1">
+			<li><a href="temporada1.html" target="_blank">Temporada</a></li>
+			<li><a href="temporada2.html" target="_blank">Temporada</a></li>
+			<li><a href="temporada3.html" target="_blank">Temporada</a></li>
+			<li>Em Breve</li>
+		</ol>
+	<!-- Lista Não Ordenada -->
+	<h2>Quantidade Episódios: </h2>
+		<ul>
+			<li>1ª temporada - 13 Episódios</li>
+			<li>2ª temporada - 24 Episódios</li>
+			<li>3ª temporada - 25 Episódios</li>
+			<li>4ª temporada - Não Definido</li>
+		</ul>
+
+	<!-- 5ª Seção - Noticias -->
+
+	<br><br><br><br>
+
+	<a name="noticias"></a>
+	<h1 align="center">Noticias: </h1>
+
+		<h2 align="center">My Hero Academia revela novos detalhes sobre a história do One For All</h2>
+			<div align="center">
+				<img src="imgnoticia1.jpg" align="center" width="500"  alt="Imagem do All Might Fortão" title="All Mighto simbolo da Paz">
+			</div>
+
+				<p>My Hero Academia está revelando novos detalhes sobre o One For All, principalmente depois de sabermos que Midoriya tem acesso a 6 novos dons. Agora, All Might soltou mais detalhes sobre a história do poder.
+
+				Recentemente, a série ganhou um novo capítulo no mangá. All Might está ajudando no treinamento entre Izuku e Bakugo, mas as coisas ficam sérias quando a batalha acaba.
+
+				Os 3 heróis se sentam e conversam sobre o One For All, Izuku conta tudo que houve. Durante o treinamento, ele revela que conheceu um vestígio de um antigo usuário do One For All, que contou sobre os novos dons. Mas All Might diz que nunca soube disso:
+
+				‘Hoje foi a primeira vez que vi este don. Já sobre o predecessor careca, o que veio antes de meu mestre era um jovem de cabelos escuros. Eu duvido que meu mestre saiba que todos os antigos dons estavam disponíveis também’</p>
+
+				<br><br><br><br>
+
+
+		<h2 align="center">Incrível pôster internacional de “My Hero Academia: Two Heroes” é revelado</h2>
+			<div align="center">
+				<img src="imgnoticia2.jpg" align="center" width="500"  alt="Imagem do Poster do Filme My Hero Akademia Two hero" title="Poster do Filme Two Hero">
+			</div>
+
+				<p font>Um incrível pôster chinês de “My Hero Academia: Two Heroes” acaba de ser revelado. O aclamado filme já está disponível em DVD e Blu-ray no Japão, mas vale lembrar que ainda teremos algumas exibições em cinemas espalhados ao redor do mundo, incluindo no Brasil.
+				Confira:</p>
+
+					<div align="center">
+						<img src="imgnoticia3.jpg" width="500"  alt="Imagem do Poster do Filme My Hero Akademia Two hero" title="Poster do Filme Two Hero">
+					</div>
+
+
+				<p>My Hero Academia foi criado por Kohei Horikoshi e resgata as grandes histórias de ação que fizeram da Shonen Jump mundialmente famosa e ainda presta uma grande homenagem aos clássicos heróis dos comics americanos. Com essa fórmula envolvente, a obra vem conquistando fãs em todas as partes do globo.
+
+				O sucesso avassalador do mangá levou o estúdio Bones (Fullmetal Alchemist, Soul Eater) a produzir a versão em anime das divertidas histórias do candidato a herói Izuku Midoriya, vulgo Deku, e do grandalhão todo-poderoso All Might. Com uma animação frenética e de alto nível, a série ajudou a consolidar My Hero Academia como um dos grandes títulos do momento.</p>
+
+
+</body>
+</html>
