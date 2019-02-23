@@ -1,0 +1,152 @@
+<!-- 2ª Temporada -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>3ª Temporada - My Hero Akademia</title>
+	<meta charset="utf-8">
+	<img src="imgtemporada3.jpg" width="100%" alt="Imagem da 2 ª Temporada de My Hero Akademia">
+</head>
+<body>
+
+	<a href="index.html">Voltar á Página Anterior</a>
+
+	<h1 align="center">3ª temporada</h1>
+		<div align="center">
+			<table width="700" border="1">
+				<!-- Criar Linhas <tr> / Criar Colunas -->
+				<tr>
+					<th>Episódio</th>
+					<th>Ep</th>
+					<th>Assistir</th>
+				</tr>
+				<tr>
+					<th>Início de jogo (Prévia)</th>
+					<th>1</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OGNmNTQ0YzNjYzk1OTk4YmFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Wild, Wild Pussycats (Prévia)</th>
+					<th>2</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=NDJhM2IzMzE5NzczZDA4N2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Kouta-kun</th>
+					<th>3</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ODM1NzRiOTcyZDExNGJiY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Meu Herói</th>
+					<th>4</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OGQ2M2U5MWIyZGU2MzkxZWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Acabe com ele, Punhos de Aço!</th>
+					<th>5</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZDJhNWM1ZmEwYWFlNzQ5ZGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Revolta Rugindo</th>
+					<th>6</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=YzI2ZGE1ODY4Y2I2MTZhOGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Que Reviravolta! (Prévia)</th>
+					<th>7</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=NTc2ZjFmOWJhOTAyMjRkYWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>De Iida para Midoriya (Prévia)</th>
+					<th>8</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZjNlZTFhYTRlNDUyNWFmMmFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>All For One</th>
+					<th>9</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=MWI1NDM0MjQ4MDI4Y2JlZWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Símbolo da Paz</th>
+					<th>10</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ZWU2ODU5Nzc0M2VhYmNmMWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>One For all</th>
+					<th>11</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=NTc2ZjFmOWJhOTAyMjRkYWFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Fim do início, Início do Fim</th>
+					<th>12</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=ODk1OWYzNzg1YTk4ZDE2MGFpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Mudando Para os Dormitórios</th>
+					<th>13</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTY2ZDRhNTdhN2VhZmM1YWk1MXM=" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Criando Movimentos Supremos</th>
+					<th>14</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>O Teste</th>
+					<th>15</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Emboscada da Shiketsu High</th>
+					<th>16</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Classe 1-A</th>
+					<th>17</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>RUSH! (PRÉVIA)o</th>
+					<th>18</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Exercícios de Resgate (PRÉVIA)</th>
+					<th>19</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Episódio Especial: Salve o Mundo Com Amor! (Prévia)</th>
+					<th>20</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Qual a Grande Ideia? (Prévia)</th>
+					<th>21</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Uma conversa a respeito de sua Peculiaridade.</th>
+					<th>22</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Deku vs. Kacchan, Parte 2</th>
+					<th>23</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th> Uma Temporada Para Encontros (Prévia - V2)</th>
+					<th>24</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+				<tr>
+					<th>Incomparável (Season Finale)</th>
+					<th>25</th>
+					<th><a href="https://assistindoanimesonline.org/player.php?m=OTg4MWM0Y2UyMTYzM2FmY2FpNTFz" target="_blank">Clique Aqui</a></th>
+				</tr>
+
+			</table>
+		</div>
+
+</body>
+</html>
